@@ -3,3 +3,5 @@ my-cool-project
 next part is auto commit 
 
 the second one 
+
+cheak the new barach and alos cheak the file 
