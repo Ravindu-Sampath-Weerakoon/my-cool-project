@@ -1,1 +1,3 @@
 my-cool-project
+
+next part is auto commit 
