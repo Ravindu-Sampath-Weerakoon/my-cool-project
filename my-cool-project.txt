@@ -1,3 +1,5 @@
 my-cool-project
 
 next part is auto commit 
+
+the second one 
