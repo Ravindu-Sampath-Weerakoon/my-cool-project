@@ -1,2 +1,4 @@
 # my-cool-project
-Created via Automation tool.
+Created via an automation tool.
+
+## This repo is for checking my automations
